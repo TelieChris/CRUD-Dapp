@@ -1,2 +1,2 @@
 # CRUD-Dapp
-CRUD Decentralization Application with Motoko on ICP
+CRUD Decentralization Application with Motoko on ICP.
