@@ -71,7 +71,7 @@ function App() {
   return (
     <main className="container">
       <center><h3>CRUD Application</h3></center>
-      <h4>Register Form</h4>
+      <h4>Registration Form</h4>
       <form onSubmit={handleSubmit} className="form">
         <label htmlFor="name">Enter your name:</label>
         <input id="name" type="text" required />
